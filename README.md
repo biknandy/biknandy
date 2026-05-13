@@ -1,33 +1,28 @@
-<h1 align="center">Hey, I'm Bik 👋</h1>
+<a href="https://biknandy.com">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Bik%20Nandy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=product%20engineer%20·%20designer%20·%20singer&descAlignY=60&descSize=18" alt="header" />
+</a>
 
 <p align="center">
-  <em>Product engineer, designer, and singer based in San Francisco 🌉</em>
+  <a href="https://github.com/biknandy/biknandy/blob/main/README.md">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=4F8CC9&center=true&vCenter=true&width=520&lines=Member+of+Technical+Staff+%40+Replit;Shipping+at+the+seam+of+eng+%26+design;Probably+singing+when+I'm+not+coding+%F0%9F%8E%A4" alt="typing" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://biknandy.com"><img src="https://img.shields.io/badge/Portfolio-biknandy.com-000?style=for-the-badge&logo=safari&logoColor=white" /></a>
+  <a href="https://biknandy.com"><img src="https://img.shields.io/badge/biknandy.com-000?style=for-the-badge&logo=safari&logoColor=white" /></a>
   <a href="https://linkedin.com/in/bikram-nandy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/biknandy"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=biknandy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/biknandy?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/biknandy?label=Stars&style=social" alt="Stars" />
+  <a href="https://x.com/biknandy"><img src="https://img.shields.io/badge/@biknandy-000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🛠️ What I'm up to
+### 👋 About
 
-- 🧪 Currently building at **[Replit](https://replit.com)** as a Member of Technical Staff
-- 🎤 When I'm not shipping code, I'm probably singing
-- 🎨 I care a lot about the seam between **engineering** and **design**
-- ✍️ I write about tools I love — Neovim, Raycast, calendar apps, window managers — over at [biknandy.com](https://biknandy.com)
+Product engineer, designer, and singer based in San Francisco. I like making software that feels good to use — fast, opinionated, and a little bit beautiful.
 
 ---
 
-### 💼 Where I've worked
+### 💼 Where I've been
 
 | Years | Company | Role |
 |------:|---------|------|
@@ -38,23 +33,20 @@
 
 ---
 
-### 📊 GitHub in numbers
+### 📈 Contribution graph
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biknandy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biknandy&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biknandy&bg_color=0d1117&color=4F8CC9&line=4F8CC9&point=ffffff&area=true&hide_border=true&custom_title=Pushing%20bits%20on%20GitHub" alt="activity graph" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=biknandy&theme=tokyonight" alt="GitHub streak" />
-</p>
+### 🐍 Watch the snake eat my contributions
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=biknandy&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://raw.githubusercontent.com/biknandy/biknandy/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>Find me online → <a href="https://biknandy.com">biknandy.com</a></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer" />
 </p>
