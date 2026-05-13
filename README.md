@@ -2,4 +2,4 @@
 
 Product engineer and designer in San Francisco. I build software with taste - fast, opinionated, and absolutely beautiful.
 
-<h1>🌉 🏀 🎤 ☘️ &nbsp;&nbsp;&nbsp;&nbsp;<img align="middle" src="https://komarev.com/ghpvc/?username=biknandy&label=profile%20views&color=4F8CC9&style=flat" alt="profile views" /></h1>
+<h3>🌉 🏀 🎤 ☘️ &nbsp;&nbsp;&nbsp;&nbsp;<img align="middle" src="https://komarev.com/ghpvc/?username=biknandy&label=profile%20views&color=4F8CC9&style=flat" alt="profile views" /></h3>
